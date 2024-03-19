@@ -1,1 +1,1 @@
-Learning Backend From Chai and Code - Youtube channel
+Learning Backend From Youtube
