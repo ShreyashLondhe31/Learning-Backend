@@ -32,7 +32,7 @@ const userSchema = new Schema(
     watchHistory: [
       {
         type: mongoose.Schema.Types.ObjectId,
-        ref: Video,
+        ref: "Video",
       },
     ],
     password: {
